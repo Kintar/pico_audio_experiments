@@ -1,4 +1,4 @@
-set(PROJ_NAME "pico_template")
+set(PROJ_NAME "pico_audio_experiments")
 
 set(PROJ_VER "0.1")
 
